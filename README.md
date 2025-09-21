@@ -28,5 +28,5 @@ The token was deployed on the (https://sepolia.etherscan.io/tx/0x904b40203a9360e
 - [Remix IDE](https://remix.ethereum.org/) – Writing and deploying contracts  
 - [OpenZeppelin](https://openzeppelin.com/contracts/) – Secure ERC-20 implementation  
 - [MetaMask](https://metamask.io/) – Wallet & testnet integration  
-- Deployment Network:Ethereum Sepolia Testnet  – Deployment network  
+- Deployment Network- Ethereum Sepolia Testnet 
 - [Faucets](https://cloud.google.com/application/web3/faucet/ethereum/sepolia/) – Free testnet ETH for gas  
