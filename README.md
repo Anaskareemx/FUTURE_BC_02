@@ -12,7 +12,7 @@
 
 ## ✅ Task Overview  
 In this task, I created and deployed my own **ERC-20 token** named **AnasX** using Solidity and OpenZeppelin.  
-The token was deployed on the (https://sepolia.etherscan.io/tx/0x904b40203a9360eeb3838e0190ca28bd58ddae0daeb689a245082af6c780be85/)
+The token was deployed on the (https://sepolia.etherscan.io/tx/0x1C3c9EEe389f96fDF4E2013e84752E965A8F5346/)
 
 ### Key Features:  
 - Based on the ERC-20 standard.  
